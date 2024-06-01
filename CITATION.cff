@@ -1,0 +1,25 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: simuGMRT
+message: >-
+  This code generates visibility visbility data set for a
+  point source with given spectral index and noise in Band-3
+  and and-4 uGMRT configuration.
+type: software
+authors:
+  - given-names: Md
+    family-names: Rashid
+    email: ra1991shid@gmai.com
+    affiliation: 'Indian Institute of science (IISc), Bangalore'
+    orcid: 'https://orcid.org/0009-0007-0120-5728'
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.11394887
+    description: 'http://arxiv.org/abs/2405.18978'
+repository-code: 'https://github.com/rashid-astro/simuGMRT.git'
+abstract: >-
+  CASA "simutil" based code to generate visibility data set
+  with noise in uGMRT configuration. 
+license: CC-BY-4.0
