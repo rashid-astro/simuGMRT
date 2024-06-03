@@ -16,7 +16,7 @@ authors:
     orcid: 'https://orcid.org/0009-0007-0120-5728'
 identifiers:
   - type: doi
-    value: 10.5281/zenodo.11394887
+    value: 10.5281/zenodo.11411343
     description: 'http://arxiv.org/abs/2405.18978'
 repository-code: 'https://github.com/rashid-astro/simuGMRT.git'
 abstract: >-
